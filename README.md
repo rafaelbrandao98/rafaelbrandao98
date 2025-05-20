@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I am Rafael Brandão 
+# Estatísticas do GitHub de [Seu Nome]
 
+- **Total de estrelas:** [número]  
+- **Total de Commits (2025):** [número]  
+- **Total de PRs:** [número]  
+- **Total de Issues:** [número]  
+- **Contribuiu para (ano passado):** [número]  
+
+---
 <!--
 **rafaelbrandao98/rafaelbrandao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
