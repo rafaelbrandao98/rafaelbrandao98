@@ -18,6 +18,7 @@
 | ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white) |                         |                        |
 ---
 📊 GitHub Stats
+---
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rafaelbrandao98&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbrandao98&layout=compact&theme=radical&hide=html,css)
 
