@@ -19,9 +19,9 @@ I have 8 years of experience as a developer, with 7 years in mobile development.
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |                        |
 | ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white) |                         |                        |
 
-## 📊 Estatísticas do GitHub
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rafaelbrandao98&show_icons=true&count_private=true&include_all_commits=true)
----
-### 🛠 Linguagens mais usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbrandao98&layout=compact)
----
+📊 GitHub Stats
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rafaelbrandao98&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbrandao98&layout=compact&theme=radical&hide=html,css)
+
