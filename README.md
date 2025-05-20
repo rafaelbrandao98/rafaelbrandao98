@@ -1,4 +1,4 @@
-## Hi, I am Rafael Brandão 
+## Hi, I am Rafael Brandão 🖖
 # Estatísticas do GitHub de [Seu Nome]
 
 - **Total de estrelas:** [número]  
