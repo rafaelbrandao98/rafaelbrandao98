@@ -1,4 +1,5 @@
 # Hi 👋, I am Rafael Brandão🖖 
+I have 8 years of experience as a developer, with 7 years in mobile development. During this time, I have worked with Ionic, React, and Flutter, respectively.
 💻 Software Engineer | 📱Mobile Engineer | ☁️Cloud Computing 
 ---
 ## 🛠 Tech Stack
