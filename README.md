@@ -4,7 +4,6 @@
 I have 8 years of experience as a developer, with 7 years in mobile development. During this time, I have worked with Ionic, React, and Flutter, respectively.
 ---
 ## 🛠 Tech Stack
-
 | Mobile Development       | Web Development         | Cloud & Backend        |
 |--------------------------|-------------------------|------------------------|
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
@@ -23,14 +22,9 @@ I have 8 years of experience as a developer, with 7 years in mobile development.
 ## 📊 Estatísticas do GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rafaelbrandao98&show_icons=true&count_private=true&include_all_commits=true)
 ---
-
 ### 🛠 Linguagens mais usadas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbrandao98&layout=compact)
 ---
-<!--
-**rafaelbrandao98/rafaelbrandao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
