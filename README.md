@@ -20,6 +20,10 @@
 📊 GitHub Stats
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rafaelbrandao98&show_icons=true&theme=radical)
+## 🏆 Metrics
 
+| **Total Stars** | **Total Commits (2025)** | **Total PRs** | **Total Issues** |
+|-----------------|--------------------------|---------------|------------------|
+| ![Stars](https://img.shields.io/badge/Total_Stars-0-gold?style=flat-square) | ![Commits](https://img.shields.io/badge/Commits_2025-139-blue?style=flat-square) | ![PRs](https://img.shields.io/badge/PRs-11-green?style=flat-square) | ![Issues](https://img.shields.io/badge/Issues-0-red?style=flat-square) |
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbrandao98&layout=compact&theme=radical&hide=html,css)
 
