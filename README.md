@@ -16,10 +16,7 @@
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=flat&logo=github-actions&logoColor=white) | ![Integration Testing](https://img.shields.io/badge/Integration_Testing-5D3FD3?style=flat&logo=testing-library&logoColor=white) |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |                        |
 | ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white) |                         |                        |
-
 📊 GitHub Stats
-
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rafaelbrandao98&show_icons=true&theme=radical)
-| ![Stars](https://img.shields.io/badge/Total_Stars-0-gold?style=flat-square) | ![Commits](https://img.shields.io/badge/Commits_2025-139-blue?style=flat-square) | ![PRs](https://img.shields.io/badge/PRs-11-green?style=flat-square) | ![Issues](https://img.shields.io/badge/Issues-0-red?style=flat-square) |
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbrandao98&layout=compact&theme=radical&hide=html,css)
 
