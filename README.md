@@ -1,11 +1,11 @@
 # Hi👋, I am Rafael Brandão 🖖
 ## Estatísticas do GitHub de [Seu Nome]
 
-- **Total de estrelas:** [número]  
-- **Total de Commits (2025):** [número]  
-- **Total de PRs:** [número]  
-- **Total de Issues:** [número]  
-- **Contribuiu para (ano passado):** [número]  
+ount_private=true&include_all_commits=true)
+
+- **Total de estrelas:** ![Stars](https://img.shields.io/github/stars/SEU_USERNAME?style=flat-square)
+- **Total de PRs:** ![Pull Requests](https://img.shields.io/github/issues-pr/SEU_USERNAME?style=flat-square)
+- **Total de Issues:** ![Issues](https://img.shields.io/github/issues/SEU_USERNAME?style=flat-square)
 
 ---
 <!--
