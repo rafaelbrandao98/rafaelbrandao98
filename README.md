@@ -1,12 +1,18 @@
-# Hi👋, I am Rafael Brandão 🖖
-## Estatísticas do GitHub de [Seu Nome]
+# Hi, I am Rafael Brandão 👋
 
-ount_private=true&include_all_commits=true)
+## 📊 Estatísticas do GitHub
 
-- **Total de estrelas:** ![Stars](https://img.shields.io/github/stars/SEU_USERNAME?style=flat-square)
-- **Total de PRs:** ![Pull Requests](https://img.shields.io/github/issues-pr/SEU_USERNAME?style=flat-square)
-- **Total de Issues:** ![Issues](https://img.shields.io/github/issues/SEU_USERNAME?style=flat-square)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rafaelbrandao98&show_icons=true&count_private=true&include_all_commits=true)
 
+- ⭐ **Total de estrelas:** ![Stars](https://img.shields.io/github/stars/rafaelbrandao98?style=flat-square&label=)
+- 🔀 **Total de PRs:** ![Pull Requests](https://img.shields.io/github/issues-pr/rafaelbrandao98?style=flat-square&label=)
+- 🐛 **Total de Issues:** ![Issues](https://img.shields.io/github/issues/rafaelbrandao98?style=flat-square&label=)
+- 💻 **Contribuições (2024):** ![Contributions](https://img.shields.io/github/commit-activity/y/rafaelbrandao98/rafaelbrandao98?style=flat-square&label=)
+
+---
+
+### 🛠 Linguagens mais usadas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbrandao98&layout=compact)
 ---
 <!--
 **rafaelbrandao98/rafaelbrandao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
